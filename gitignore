@@ -1,0 +1,8 @@
+# Ignore local virtual environment
+venv/
+
+# Ignore compiled python files
+__pycache__/
+
+# Ignore your real environment file (with secrets)
+.env
